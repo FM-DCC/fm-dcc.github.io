@@ -65,6 +65,25 @@
 /*  width: 20%;*/
 }
 
+.editNote {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -3rem;
+}
+
+.editNote>a {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 4rem;
+  margin-bottom: -3rem;
+  text-decoration: underline;
+}
+.editNote>a:visited { color: #999; }
+.editNote>a:hover { color: #666666; font-weight: 600; }
+
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }

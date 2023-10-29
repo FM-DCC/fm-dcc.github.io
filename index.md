@@ -36,3 +36,7 @@ We are part of the following laboratories:
  - [HASLab](https://www.inesctec.pt/en/centres/haslab)
  - [CMUP](https://www.cmup.pt)
  - [CISTER](https://cister-labs.pt)
+
+
+Edit the content of this page [here](https://github.com/FM-DCC/fm-dcc.github.io/blob/main/index.md).
+{: .editNote}
