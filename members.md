@@ -18,19 +18,6 @@ permalink: /members/
 - Hugo Pacheco
 - Bernardo Portela
 - João Barbosa
-
-
-- Bernardo Portela
-- Hugo Pacheco
-- João Barbosa
-- José Proença
-- Manuel Barbosa
-- Mário Florido
-- Nelma Moreira
-- Sandra Alves
-- Pedro Vasconcelos
-- Rogério Reis
-- Sabine Broda
 --> 
 
   - 
@@ -81,7 +68,7 @@ permalink: /members/
     + ![Manuel Barbosa's photo](../assets/img/photos/mbb.jpg)
     + <a></a>
       * [Manuel Barbosa](http://www.dcc.fc.up.pt/~mbb/)
-      * Assistant professor @ [FCUP](https://fc.up.pt), [HASLab](...)
+      * Associate professor @ [FCUP](https://fc.up.pt), [HASLab](...)
       * <a></a>
         + Security
         {: .myInterests}
@@ -102,7 +89,7 @@ permalink: /members/
     + ![Nemla Moreira's photo](../assets/img/photos/nam.jpg)
     + <a></a>
       * [Nemla Moreira](https://www.dcc.fc.up.pt/~nam/)
-      * Assistant professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
+      * Associate professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
         + ...
         {: .myInterests}
@@ -132,7 +119,7 @@ permalink: /members/
     + ![Sabine Broda's photo](../assets/img/photos/sbb.jpg)
     + <a></a>
       * [Sabine Broda](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=203090)
-      * Assistant professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
+      * Associate professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
         + ...
         {: .myInterests}
