@@ -70,10 +70,12 @@ permalink: /members/
   - 
     + ![Hugo Pacheco's photo](../assets/img/photos/hp.jpg)
     + <a></a>
-      * [Hugo Pacheco](https://www.inesctec.pt/en/people/hugo-pereira-pacheco)
+      * [Hugo Pacheco](https://www.dcc.fc.up.pt/~hpacheco/)
       * Assistant professor @ [FCUP](https://fc.up.pt), [HASLab](...)
       * <a></a>
-        + Security
+        + Cryptography
+        + Secure Multi-party Computation
+        + Programming Languages
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
