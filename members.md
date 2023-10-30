@@ -30,12 +30,14 @@ permalink: /members/
       {: .myMemberSubItems}
     {: .myMemberItems}
   - 
-    + ![Nemla Moreira's photo](../assets/img/photos/nam.jpg)
+    + ![Nelma Moreira's photo](../assets/img/photos/nam.jpg)
     + <a></a>
-      * [Nemla Moreira](https://www.dcc.fc.up.pt/~nam/)
+      * [Nelma Moreira](https://www.dcc.fc.up.pt/~nam/)
       * Associate professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
-        + ...
+        + Automata Theory
+        + Formal Languages
+        + Computational Logic
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
