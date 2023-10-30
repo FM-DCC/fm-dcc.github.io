@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Formal Methods Laboratory @ DCC-FCUP
+title: FM Laboratory @ DCC
 # email: jose@proenca.org
 description: >- # this means to ignore newlines until "baseurl:"
   Formal Methods Laboratory from DCC, FCUP, University of Porto

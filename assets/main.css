@@ -62,6 +62,12 @@
   .myMemberItems>li { max-width: 68%; }
 }
 
+.site-header>div>img {
+  padding-top: 11px;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
 .editNote {
   color: #999;
   font-size: 0.8rem;
