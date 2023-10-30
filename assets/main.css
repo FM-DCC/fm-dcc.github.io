@@ -18,7 +18,7 @@
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   display: block;
 }
 
@@ -30,7 +30,7 @@
   border-radius: 10rem;
 }
 
-.myMemberSubItems {  list-style-type: none; margin-left:0; }
+.myMemberSubItems {  list-style-type: none; margin-left:0; display:inline-block; }
 .myMemberSubItems>li { padding-bottom: 10px;}
 .myMemberSubItems>li:first-of-type { font-weight: 600; }
 
@@ -39,6 +39,7 @@
   list-style: none;
   display: flex;
   margin-left: 0;
+  padding-bottom: 16px;
 }
 
 .myMemberItems>li {

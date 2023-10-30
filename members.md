@@ -14,7 +14,8 @@ permalink: /members/
       * [Manuel Barbosa](http://www.dcc.fc.up.pt/~mbb/)
       * Associate professor @ [FCUP](https://fc.up.pt), [HASLab](...)
       * <a></a>
-        + Security
+        + Cryptography and Information Security
+        + Formal Verification
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -162,6 +163,26 @@ permalink: /members/
       {: .myMemberSubItems}
     {: .myMemberItems}
   {: .myMembers}
+
+
+
+## Research Associates
+
+  - 
+    + ![Vitor Rodrigues's photo](../assets/img/photos/vr.jpg)
+    + <a></a>
+      * [Vitor Rodrigues](https://sigarra.up.pt/fcup/en/FUNC_GERAL.FORMVIEW?P_CODIGO=683119)
+      * Invited Assistant Professor @ [FCUP](https://fc.up.pt), [VORTEX CoLab](http://vortex-colab.com/)
+      * <a></a>
+        + Program Verification
+        + Abstract Interpretation
+        + Concurrent Programming
+        {: .myInterests}
+      {: .myMemberSubItems}
+    {: .myMemberItems}
+  {: .myMembers}
+
+
 
 
 Edit the content of this page [here](https://github.com/FM-DCC/fm-dcc.github.io/blob/main/members.md).
