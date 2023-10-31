@@ -159,9 +159,9 @@ permalink: /members/
       * [Pedro Ângelo](https://pedroangelo.github.io)
       * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Gradual Typing
-        + Functional Programming
-        + Object-oriented Programming
+        + Gradual typing
+        + Functional programming
+        + Object-oriented programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -171,9 +171,9 @@ permalink: /members/
       * [Miguel Ramos](https://boilnkettle.github.io)
       * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Quantitative Types
-        + Type Theory
-        + Functional Programming
+        + Quantitative types
+        + Type theory
+        + Functional programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
