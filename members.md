@@ -88,8 +88,8 @@ permalink: /members/
       * Assistant professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
         + Type systems
-        + Logic Programming
-        + Program Verification
+        + Logic programming
+        + Program verification
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
