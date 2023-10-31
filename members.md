@@ -172,6 +172,7 @@ permalink: /members/
       * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
         + Quantitative Types
+        + Type Theory
         + Functional Programming
         {: .myInterests}
       {: .myMemberSubItems}
