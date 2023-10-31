@@ -60,7 +60,7 @@ permalink: /members/
   - 
     + ![Bernardo Portela's photo](../assets/img/photos/bp.jpg)
     + <a></a>
-      * [Bernardo Portela](https://www.inesctec.pt/index.php/en/people/bernardo-luis-portela)
+      * [Bernardo Portela](https://bernardoportela.github.io)
       * Assistant professor @ [FCUP](https://fc.up.pt), [HASLab](...)
       * <a></a>
         + Cryptography
