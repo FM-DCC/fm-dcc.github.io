@@ -49,7 +49,9 @@ permalink: /members/
       * [Sabine Broda](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=203090)
       * Associate professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
-        + ...
+        + Automata Theory
+        + Type Theory
+        + Computational Logic
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -126,7 +128,8 @@ permalink: /members/
       * [Rogério Reis](https://www.dcc.fc.up.pt/~rvr/)
       * Assistant professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
-        + ...
+        + Automata Theory
+        + Cryptography
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -167,8 +170,8 @@ permalink: /members/
       * [Miguel Ramos](https://boilnkettle.github.io)
       * [FCUP](https://fc.up.pt), [CRACS](https://www.inesctec.pt/en/centres/cracs)
       * <a></a>
-        + Type systems
-        + Lambda calculus
+        + Quantitative Types
+        + Functional Programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
