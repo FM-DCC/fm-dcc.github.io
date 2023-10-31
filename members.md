@@ -25,7 +25,8 @@ permalink: /members/
       * [Mário Florido](https://liacc.fe.up.pt/member/amf)
       * Associate professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Type systems
+        + Type Theory
+        + Lambda-calculus
         + Functional programming
         {: .myInterests}
       {: .myMemberSubItems}
@@ -152,8 +153,9 @@ permalink: /members/
       * [Pedro Ângelo](https://pedroangelo.github.io)
       * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Type systems
-        + Lambda calculus
+        + Gradual Typing
+        + Functional Programming
+        + Object-oriented Programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
