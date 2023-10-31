@@ -168,7 +168,7 @@ permalink: /members/
     + ![Miguel Ramos's photo](../assets/img/photos/mr.jpg)
     + <a></a>
       * [Miguel Ramos](https://boilnkettle.github.io)
-      * [FCUP](https://fc.up.pt), [CRACS](https://www.inesctec.pt/en/centres/cracs)
+      * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
         + Quantitative Types
         + Functional Programming
