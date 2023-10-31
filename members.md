@@ -87,7 +87,9 @@ permalink: /members/
       * [João Barbosa](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=565525)
       * Assistant professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + ...
+        + Type systems
+        + Logic Programming
+        + Program Verification
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
