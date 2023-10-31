@@ -20,7 +20,7 @@ permalink: /members/
       {: .myMemberSubItems}
     {: .myMemberItems}
   - 
-    + ![Mário Florido's photo](../assets/img/photos/amf2.png)
+    + ![Mário Florido's photo](../assets/img/photos/amf1.jpg)
     + <a></a>
       * [Mário Florido](https://liacc.fe.up.pt/member/amf)
       * Associate professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
