@@ -63,7 +63,8 @@ permalink: /members/
       * [Bernardo Portela](https://www.inesctec.pt/index.php/en/people/bernardo-luis-portela)
       * Assistant professor @ [FCUP](https://fc.up.pt), [HASLab](...)
       * <a></a>
-        + Security
+        + Cryptography
+        + Provable Security
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -96,7 +97,7 @@ permalink: /members/
       * Assistant professor @ [FCUP](https://fc.up.pt), [CISTER](https://cister-labs.pt)
       * <a></a>
         <!-- + Software engineering -->
-        + Concurrency and coordination models
+        + Coordination models
         + Product line engineering
         + Functional programming
         <!-- + Programming in Scala -->
