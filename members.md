@@ -27,7 +27,7 @@ permalink: /members/
       * <a></a>
         + Type Theory
         + Lambda-calculus
-        + Functional programming
+        + Functional Programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
