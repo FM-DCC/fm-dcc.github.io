@@ -110,7 +110,10 @@ permalink: /members/
       * [Pedro Vasconcelos](https://www.dcc.fc.up.pt/~pbv/index_en.html)
       * Assistant professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + ...
+        + Functional programming
+        + Resource analysis
+        + Type-based static analysis
+        + Property-based testing
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
