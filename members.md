@@ -20,13 +20,14 @@ permalink: /members/
       {: .myMemberSubItems}
     {: .myMemberItems}
   - 
-    + ![Mário Florido's photo](../assets/img/photos/amf.jpg)
+    + ![Mário Florido's photo](../assets/img/photos/amf1.jpeg)
     + <a></a>
       * [Mário Florido](https://liacc.fe.up.pt/member/amf)
       * Associate professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Type systems
-        + Functional programming
+        + Type Theory
+        + Lambda calculus
+        + Functional Programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -48,7 +49,9 @@ permalink: /members/
       * [Sabine Broda](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=203090)
       * Associate professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
-        + ...
+        + Automata Theory
+        + Type Theory
+        + Computational Logic
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -86,7 +89,9 @@ permalink: /members/
       * [João Barbosa](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=565525)
       * Assistant professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + ...
+        + Type theory
+        + Logic programming
+        + Program verification
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -123,7 +128,9 @@ permalink: /members/
       * [Rogério Reis](https://www.dcc.fc.up.pt/~rvr/)
       * Assistant professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
-        + ...
+        + Automata Theory
+        + Descriptional Complexity
+        + Cryptography
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -152,8 +159,9 @@ permalink: /members/
       * [Pedro Ângelo](https://pedroangelo.github.io)
       * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Type systems
-        + Lambda calculus
+        + Gradual typing
+        + Functional programming
+        + Object-oriented programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
@@ -161,10 +169,11 @@ permalink: /members/
     + ![Miguel Ramos's photo](../assets/img/photos/mr.jpg)
     + <a></a>
       * [Miguel Ramos](https://boilnkettle.github.io)
-      * [FCUP](https://fc.up.pt), [CRACS](https://www.inesctec.pt/en/centres/cracs)
+      * [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
-        + Type systems
-        + Lambda calculus
+        + Quantitative types
+        + Type theory
+        + Functional programming
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}

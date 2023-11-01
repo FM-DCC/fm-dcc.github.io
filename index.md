@@ -32,9 +32,9 @@ which every computer scientist knows.
 We are part of the following laboratories:
 
  - [LIACC](https://liacc.fe.up.pt)
- - [CRACS](https://www.inesctec.pt/en/centres/cracs)
- - [HASLab](https://www.inesctec.pt/en/centres/haslab)
  - [CMUP](https://www.cmup.pt)
+ - [HASLab](https://www.inesctec.pt/en/centres/haslab)
+ - [CRACS](https://www.inesctec.pt/en/centres/cracs)
  - [CISTER](https://cister-labs.pt)
 
 
