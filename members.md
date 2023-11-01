@@ -26,7 +26,7 @@ permalink: /members/
       * Associate professor @ [FCUP](https://fc.up.pt), [LIACC](https://www.dcc.fc.up.pt/site/investigacao/liacc)
       * <a></a>
         + Type Theory
-        + Lambda-calculus
+        + Lambda calculus
         + Functional Programming
         {: .myInterests}
       {: .myMemberSubItems}
