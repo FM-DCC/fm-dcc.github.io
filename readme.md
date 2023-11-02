@@ -1,1 +1,1 @@
-Possible site for FM-lab @ FCUP.
+Possible site for FM group @ FCUP.
