@@ -129,8 +129,8 @@ permalink: /members/
       * Assistant professor @ [FCUP](https://fc.up.pt), [CMUP](https://www.dcc.fc.up.pt/site/investigacao/cmup)
       * <a></a>
         + Automata Theory
-        + Descriptional Complexity
         + Combinatorics
+        + Descriptional Complexity
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
