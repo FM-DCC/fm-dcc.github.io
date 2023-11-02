@@ -130,7 +130,7 @@ permalink: /members/
       * <a></a>
         + Automata Theory
         + Descriptional Complexity
-        + Cryptography
+        + Combinatorics
         {: .myInterests}
       {: .myMemberSubItems}
     {: .myMemberItems}
