@@ -184,6 +184,18 @@ permalink: /members/
 ## Research Associates
 
   - 
+    + ![David Pereira's photo](../assets/img/photos/dp.jpg)
+    + <a></a>
+      * [David Pereira](https://cister-labs.pt/people/david_pereira/)
+      * Invited Assistant Professor @ [FCUP](https://fc.up.pt), [CISTER](https://cister-labs.pt)
+      * <a></a>
+        + Real-time systems
+        + Runtime Verification
+        + Program Verification
+        {: .myInterests}
+      {: .myMemberSubItems}
+    {: .myMemberItems}
+  -
     + ![Vitor Rodrigues's photo](../assets/img/photos/vr.jpg)
     + <a></a>
       * [Vitor Rodrigues](https://sigarra.up.pt/fcup/en/FUNC_GERAL.FORMVIEW?P_CODIGO=683119)
